@@ -104,6 +104,24 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 </details>
 
+## [GreatCTO](https://greatcto.systems/)
+
+Open-source Claude Code plugin orchestrating 33 specialist AI agents through the full SDLC pipeline — architect, planning, implementation, 12-angle review, QA, security, deployment, support — across 25 project archetypes (web, fintech, healthcare, edtech, gov-public, insurance, etc.) with auto-attached compliance gates (PCI-DSS, HIPAA, GDPR, FedRAMP, EU AI Act).
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [Web](https://greatcto.systems/)
+- [GitHub](https://github.com/avelikiy/great_cto)
+- [npm](https://www.npmjs.com/package/great-cto)
+- [JSR](https://jsr.io/@avelikiy/great-cto)
+
+
+</details>
+
 ## [Helicone](https://www.helicone.ai/)
 An open-source observability platform for GPT-3. Allows to track usage, costs, and latency with one line of code.
 
