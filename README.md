@@ -106,7 +106,7 @@ Fixie is a platform for conversational AI that enables to build agents in any la
 
 ## [GreatCTO](https://greatcto.systems/)
 
-Open-source Claude Code plugin orchestrating 33 specialist AI agents through the full SDLC pipeline — architect, planning, implementation, 12-angle review, QA, security, deployment, support — across 25 project archetypes (web, fintech, healthcare, edtech, gov-public, insurance, etc.) with auto-attached compliance gates (PCI-DSS, HIPAA, GDPR, FedRAMP, EU AI Act).
+Open-source MIT plugin for Claude Code. Its one job is to report what did NOT happen: a skipped stage, a review that never ran and an unmeasured cost each render as themselves and are never counted as a pass. Three approvals stay yours — what gets built, how, and whether it ships — and spending caps refuse rather than warn. On OpenAI Codex it ships a skills bundle and an MCP server, and Codex reviews the same diff as a cross-model second opinion.
 
 <details>
 
